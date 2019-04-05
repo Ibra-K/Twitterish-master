@@ -1,4 +1,4 @@
-# Twitter Clone
+# Twitterish
 
 This is a simple application created using `React Native` and `Redux` to mimic basic design and functionality of the official Twitter app.
 It uses `fakerJs` and `json-server` to run a demo server for the application.
@@ -22,9 +22,9 @@ It uses `fakerJs` and `json-server` to run a demo server for the application.
 
 On the command prompt run the following commands
 ```sh
-$ git clone https://github.com/pranit123/Twitter-Clone.git
+$ git clone https://github.com/Ibra-K/Twitterish-master.git
 
-$ cd Twitter-Clone/
+$ cd Twitterish-master/
 
 $ npm install
 
@@ -67,5 +67,3 @@ $ npm run android
 ## Credits
 
 *	[NativeBase](http://nativebase.io)
-*	[Sankhadeep Roy](https://github.com/sankhadeeproy007)
-*	[Jasbir23](https://github.com/Jasbir23)
